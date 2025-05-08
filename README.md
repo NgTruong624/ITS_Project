@@ -44,7 +44,7 @@ npm start
 
 ```
 smart-traffic-navigation/
-├── frontend/           # React frontend
-├── backend/           # Node.js backend
-└── package.json       # Root package.json
+├── frontend/          
+├── backend/         
+└── package.json      
 ``` 
